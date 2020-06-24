@@ -1,0 +1,6 @@
+module Pods_deliziosah {
+  umbrella header "Pods-deliziosah-umbrella.h"
+
+  export *
+  module * { export * }
+}

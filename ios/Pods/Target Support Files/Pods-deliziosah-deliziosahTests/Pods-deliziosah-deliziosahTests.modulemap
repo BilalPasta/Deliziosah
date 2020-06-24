@@ -1,0 +1,6 @@
+module Pods_deliziosah_deliziosahTests {
+  umbrella header "Pods-deliziosah-deliziosahTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
